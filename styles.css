@@ -1,0 +1,7 @@
+.required {
+    color: red;
+    margin-left: 5px;
+}
+.action-delete {
+    color: red;
+}
